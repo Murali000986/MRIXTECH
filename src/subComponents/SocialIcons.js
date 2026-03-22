@@ -55,6 +55,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
+          rel="noopener noreferrer"
           href={"https://discord.com/channels/@me/1177489748034592778"}
         >
           <Discord
